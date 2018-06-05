@@ -1,0 +1,10 @@
+.navbar {
+  background-color: #d3d3d3;
+}
+
+.message {
+  background-color: red;
+  color: white;
+  border: solid 1px black;
+  text-align: center;
+}

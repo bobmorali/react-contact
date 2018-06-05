@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "firstname": "Khelil",
+      "lastname": "Benosman",
+      "email": "khelil@partikuls.com",
+      "phone": "0638539885",
+      "tags": [
+        "Youpie",
+        "React",
+        "React Native"
+      ],
+      "id": 18
+    },
+    {
+      "id": 19,
+      "firstname": "Alan",
+      "lastname": "Rickman",
+      "phone": "0273643290",
+      "email": "alan@rickman.com",
+      "tags": [
+        "HarryPotter",
+        " Piège de cristal"
+      ]
+    },
+    {
+      "firstname": "Steven",
+      "lastname": "Spielberg",
+      "email": "steven@spielberg.com",
+      "phone": "0273827384",
+      "tags": [
+        "Director",
+        "Ready Player",
+        " AI"
+      ],
+      "id": 20
+    }
+  ]
+}
